@@ -1,0 +1,10 @@
+s3_bucket = "my-tf-test-bucket-bakuliya-february"
+s3_folder_project = "terraform_ec2"
+s3_folder_region = "us-east-1"
+s3_folder_type = "class"
+s3_tfstate_file = "infrastructure.tfstate"
+
+environment = "dev"
+region      = "us-east-1"
+public_key  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCvviQjX8yFiYe5P74RxIyIZEMNyitGdjWhuJfO2Xz7H7vW0WtmTQfZByCAv8mByDZI0RQXcjQ98RwUFJw2aPUgXyjqzZGuUJt+OS0RJdOraLJUfp07H72rpa2cZ3q4ald2JdIWRR0rGT0YXXjcQoT9aOOrwWy/Nz5AnFGYOSUcSA8FnpuYKqgcSLBmwV2G8GKQMkUO/JbIdX2sFMUs1eoD4DrwW4Dp/BysfNsfqr2XcuX7Dc8RyK6zpZTYWfGvIQRzecVDHCKMS8QfBuFuxmrEmuONusisfgxIwpKBFe6GpW8hvCAyYWqBPJvUuLINga7N6hdR3+EGehwR+bvd8Pu0jSlZ5unRF/MUt5Woi+kFYr7iCr0GZackp8gsC2ovq/dZ18HsR/APqT6SOO1fOWdHjxZpZADNTwZGRGJSLhyQCMSbgidDGYH5lF4KdwW3O0HW3anUufA2RVDkNLyc2OwUoGuxAZBZIn9IJjnYECxUiiorm/y7V6yMIR/VuZemC9U= bakuliya@Baktyguls-MBP"
+ami_id      = "ami-02eac2c0129f6376b"
